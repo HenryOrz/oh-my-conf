@@ -1,0 +1,7 @@
+[user]
+    name = henryorz
+    email = henry_zhr@126.com
+[alias]
+    st = status
+    co = checkout
+    ci = commit
