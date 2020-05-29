@@ -26,6 +26,8 @@ set softtabstop=4
 set autoindent
 " 开启智能缩进(根据语法智能缩进例如大括号)
 set smartindent
+" 开启智能补全tab(根据当前文件决定tab宽度)
+set smartindent
 " 开启自动识别文件类型，并根据文件类型加载不同的插件和缩进规则
 filetype plugin indent on
 

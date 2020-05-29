@@ -1,7 +1,8 @@
 [user]
-    name = henryorz
-    email = henry_zhr@126.com
+	name = zhouhengrui
+	email = zhouhengrui@sunlands.com
 [alias]
     st = status
     co = checkout
     ci = commit
+    br = branch
